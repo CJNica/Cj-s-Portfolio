@@ -48,10 +48,10 @@ const Home = () => {
 
         <main className="main-content">
           
-          <p style={{paddingTop:120 , fontSize:25, fontWeight:"bold" , color:"white" , textAlign:"start"}}>
+          <p style={{paddingTop:120 , fontSize:20, fontWeight:"bold" , color:"white" , textAlign:"start"}}>
           I am CJ, a passionate and dedicated Bachelor of Science in Information Technology student with a strong enthusiasm for learning and creativity. My skill set spans a diverse range of abilities, including coding, designing, and creating compelling digital artwork that merges innovation with aesthetic appeal. I also have a talent for drawing, where I bring my imagination to life through detailed illustrations, blending traditional techniques with modern digital tools. Whether it's crafting functional code, designing visually stunning user interfaces, or producing artistic masterpieces, I constantly strive to push boundaries and improve my craft.
 
-        <p style={{paddingTop:10 , fontSize:25, fontWeight:"bold" , color:"white" , textAlign:"start",paddingRight:175}}>Beyond academics, I am an avid gamer who finds inspiration in the immersive worlds of gaming, and I channel my artistic eye into photography, capturing moments that tell stories and evoke emotions. My goal is to continuously expand my skill set, refine my artistry, and make a meaningful impact in the fields of technology, art, and beyond.</p>
+        <p style={{paddingTop:10 , fontSize:20, fontWeight:"bold" , color:"white" , textAlign:"start",paddingRight:175}}>Beyond academics, I am an avid gamer who finds inspiration in the immersive worlds of gaming, and I channel my artistic eye into photography, capturing moments that tell stories and evoke emotions. My goal is to continuously expand my skill set, refine my artistry, and make a meaningful impact in the fields of technology, art, and beyond.</p>
           </p>
 
           <div className="button-container">
