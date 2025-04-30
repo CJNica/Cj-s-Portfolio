@@ -183,7 +183,7 @@ body {
 /* Floating Resume Buttons */
 .resume-buttons {
     position: absolute;
-    bottom: 190px; /* Moves buttons below iframe */
+    bottom: 210px; /* Moves buttons below iframe */
     right: 13%;
     transform: translateX(-50%); /* Centers buttons */
     display: flex;
